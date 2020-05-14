@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589492739 source:e:\problem-solving\twoarraysandswaps\main.cpp
+	<iostream>
+	<algorithm>
+	<numeric>
+
