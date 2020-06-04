@@ -1,0 +1,4 @@
+cat
+an animal
+doggy
+another animal

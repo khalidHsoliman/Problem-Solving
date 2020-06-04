@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1591298416 source:e:\problem-solving\dictionaryapplication\main.cpp
+	"dictionary.h"
+
+1591301490 source:e:\problem-solving\dictionaryapplication\dictionary.cpp
+	"dictionary.h"
+
+1591297122 e:\problem-solving\dictionaryapplication\dictionary.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<algorithm>
+	<iterator>
+	<map>
+
