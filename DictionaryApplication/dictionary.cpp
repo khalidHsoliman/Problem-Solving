@@ -91,7 +91,7 @@ void Dictionary::updateWord()
 
         int found = searchWord(updatedWord);
 
-        if(found > 0)
+        if(found >= 0)
         {
             updatedWord = word[found];
             updatedMean = mean[found];
@@ -173,7 +173,7 @@ void Dictionary::deleteWord()
         cin >> deletedWord;
 
         int found = searchWord(deletedWord);
-        if(found > 0)
+        if(found >= 0)
         {
             deleteWord(found);
             cout << deletedWord << " is deleted for the dictionary" << endl;
